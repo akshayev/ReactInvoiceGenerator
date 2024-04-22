@@ -31,7 +31,7 @@ const Home = () => {
 
         <h3 className="mt-4">Explore the Code:</h3>
         <p>
-          View the source code on GitHub: <a href="https://github.com/amal-krishna-m-u/invoiceGenerator.git" target="_blank" rel="noopener noreferrer">GST Billing System Repository</a>
+          View the source code on GitHub: <a href="https://github.com/akshayev/ReactInvoiceGenerator.git" target="_blank" rel="noopener noreferrer">GST Billing System Repository</a>
         </p>
       </div>
     </div>
